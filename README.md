@@ -1,4 +1,4 @@
-# Sample front-end
+# Sample front-end for asp.net back-end
 
 ### Used frameworks
 Aurelia<br>
